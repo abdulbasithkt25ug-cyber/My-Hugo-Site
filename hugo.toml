@@ -2,3 +2,4 @@ baseURL = 'https://abdulbasithkt25ug-cyber.github.io/My-Hugo-Site/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
+publishDir = "docs"
