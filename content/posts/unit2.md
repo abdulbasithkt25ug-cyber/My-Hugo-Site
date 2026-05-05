@@ -4,7 +4,7 @@ draft = false
 title = 'Unit2'
 +++
 
-My experience about binary and problem solving
+**My experience about binary and problem solving**
 
 In this unit, I felt easy at the beginning. Because binary numbers were already learned from
 12th. So I feel easier.Since I had learned some basics before, I did not find the initial topics
