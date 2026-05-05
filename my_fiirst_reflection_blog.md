@@ -1,7 +1,6 @@
 +++
-date = '2026-02-04T13:56:17+05:30'
-draft = false
-title = 'Unit2'
+title = "My Experience About Binary and Problem Solving"
+date = 2026-05-05
 +++
 
 My experience about binary and problem solving
